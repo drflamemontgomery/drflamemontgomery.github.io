@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="graphics/atlas.png" width="256" height="256">
+
+	<sprite n="player0" x="0" y="0" w="170" h="46"/>
+	<sprite n="player1" x="0" y="46" w="170" h="46"/>
+  <sprite n="player2" x="0" y="92" w="170" h="46"/>
+
+	<sprite n="bullet0" x="176" y="0" w="15" h="15"/>
+	<sprite n="bullet1" x="176" y="15" w="15" h="15"/>
+  <sprite n="bullet2" x="176" y="30" w="15" h="15"/>
+
+	<sprite n="tag0" x="192" y="0" w="22" h="22"/>
+	<sprite n="tag1" x="192" y="22" w="22" h="22"/>
+  <sprite n="tag2" x="192" y="44" w="22" h="22"/>
+
+  <sprite n="tileset" x="0" y="138" w="64" h="32"/>
+
+</TextureAtlas>
