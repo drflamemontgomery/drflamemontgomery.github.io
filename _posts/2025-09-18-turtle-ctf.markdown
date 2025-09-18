@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date:   2025-18-09 09:09:08 +1300
+date:   2025-09-18 09:09:08 +1300
 categories: update
 ---
 
